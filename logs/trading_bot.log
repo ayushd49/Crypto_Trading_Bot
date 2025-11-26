@@ -1,0 +1,215 @@
+2025-11-24 18:38:12 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 18:38:13 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:38:13 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:38:13 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:50:26 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 18:50:27 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:50:27 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:50:27 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:54:57 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 18:54:58 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:54:58 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 18:54:58 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:01:14 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 19:01:15 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:01:15 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:01:15 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:10:35 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 19:10:36 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:10:36 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:10:36 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:10:46 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 19:10:46 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:10:46 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:10:46 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:12:58 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 19:12:59 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:12:59 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:12:59 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:13:16 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 19:13:17 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:13:17 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 19:13:17 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 20:01:36 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-24 20:01:37 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 20:01:37 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-24 20:01:37 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 11:05:34 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 11:05:34 - TradingBot - ERROR - Failed to initialize bot: API Secret required for private endpoints
+2025-11-25 11:05:34 - CLI - ERROR - Initialization failed: API Secret required for private endpoints
+2025-11-25 18:31:42 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 18:31:43 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 18:31:43 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 18:31:43 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 18:33:34 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 18:33:35 - TradingBot - ERROR - API connection failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 18:33:35 - TradingBot - ERROR - Failed to initialize bot: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 18:33:35 - CLI - ERROR - Initialization failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 18:35:24 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 18:35:24 - TradingBot - INFO - Connection successful - Wallet Balance: N/A USDT
+2025-11-25 18:36:10 - TradingBot - INFO - Placing MARKET BUY order: 100.0 BTCUSDT
+2025-11-25 18:36:11 - TradingBot - ERROR - API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-11-25 19:04:24 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 19:04:24 - TradingBot - INFO - Connection successful - USDT Balance: 10000.00000000
+2025-11-25 19:04:45 - TradingBot - INFO - Placing MARKET BUY order: 0.001 BTCUSDT
+2025-11-25 19:04:45 - TradingBot - INFO - Order placed successfully - Order ID: 3906846
+2025-11-25 19:04:56 - TradingBot - INFO - Account Balance: {'total_balance': 9912.40899, 'available_balance': 9912.40899}
+2025-11-25 19:05:11 - TradingBot - INFO - Retrieved 0 open orders
+2025-11-25 19:06:38 - TradingBot - INFO - Placing LIMIT sell order: 0.001 BTCUSDT @ 12000.0
+2025-11-25 19:06:38 - TradingBot - ERROR - API error: APIError(code=-1013): Filter failure: PERCENT_PRICE_BY_SIDE
+2025-11-25 20:03:56 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 20:03:56 - TradingBot - INFO - Connection successful - Wallet Balance: 4998.81644776 USDT
+2025-11-25 20:04:19 - TradingBot - INFO - Placing MARKET buy order: 0.001 BTCUSDT
+2025-11-25 20:04:19 - TradingBot - ERROR - API error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-25 20:05:02 - TradingBot - ERROR - Validation failed: Quantity must be between 0.001 and 100.0
+2025-11-25 20:05:22 - TradingBot - INFO - Placing MARKET buy order: 10.0 BTCUSDT
+2025-11-25 20:05:22 - TradingBot - ERROR - API error: APIError(code=-2019): Margin is insufficient.
+2025-11-25 20:06:04 - TradingBot - INFO - Placing MARKET sell order: 0.1 BTCUSDT
+2025-11-25 20:06:04 - TradingBot - INFO - Order placed successfully - Order ID: 10626424938
+2025-11-25 20:06:11 - TradingBot - ERROR - Failed to get balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 20:11:35 - TradingBot - ERROR - Failed to get balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 20:11:42 - TradingBot - ERROR - Failed to get balance: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 20:13:12 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 20:13:12 - TradingBot - INFO - Connection successful - Wallet Balance: 4992.45390777 USDT
+2025-11-25 20:13:17 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:14:35 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:15:07 - TradingBot - INFO - Placing MARKET buy order: 0.001 BTCUSDT
+2025-11-25 20:15:08 - TradingBot - ERROR - API error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-25 20:28:08 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:28:29 - TradingBot - ERROR - Failed to get open orders: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 20:31:52 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:34:52 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:35:46 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:37:34 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:39:18 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:42:39 - TradingBot - INFO - Account Balance: {'total_balance': 0.0, 'available_balance': 0.0}
+2025-11-25 20:42:46 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 20:42:47 - TradingBot - INFO - Connection successful - Wallet Balance: 4992.41929673 USDT
+2025-11-25 20:42:48 - CLI - ERROR - Unexpected error: 'locked'
+2025-11-25 20:43:08 - CLI - ERROR - Unexpected error: 'locked'
+2025-11-25 20:43:13 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 20:43:14 - TradingBot - INFO - Connection successful - Wallet Balance: 4992.41929673 USDT
+2025-11-25 20:43:15 - TradingBot - INFO - Account Balance: {'total_balance': 4368.34265673, 'available_balance': 4383.23865673}
+2025-11-25 20:43:43 - TradingBot - INFO - Placing MARKET buy order: 0.001 BTCUSDT
+2025-11-25 20:43:43 - TradingBot - ERROR - API error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-25 21:00:40 - TradingBot - ERROR - Validation failed: Quantity must be between 0.001 and 100.0
+2025-11-25 21:01:42 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 21:01:42 - TradingBot - INFO - Connection successful - Wallet Balance: 4992.41929673 USDT
+2025-11-25 21:02:07 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 21:02:08 - TradingBot - INFO - Connection successful - Wallet Balance: 4992.41929673 USDT
+2025-11-25 21:02:19 - TradingBot - INFO - Placing MARKET buy order: 0.001 BTCUSDT
+2025-11-25 21:02:19 - TradingBot - ERROR - API error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-25 21:06:57 - TradingBot - INFO - Placing LIMIT buy order: 0.001 BTCUSDT @ 1200.0
+2025-11-25 21:06:57 - TradingBot - ERROR - API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 21:07:13 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 21:07:14 - TradingBot - INFO - Connection successful - Wallet Balance: 4992.41929673 USDT
+2025-11-25 21:07:51 - TradingBot - INFO - Placing MARKET buy order: 10.0 BTCUSDT
+2025-11-25 21:07:51 - TradingBot - ERROR - API error: APIError(code=-2019): Margin is insufficient.
+2025-11-25 21:08:11 - TradingBot - INFO - Placing MARKET buy order: 1.0 BTCUSDT
+2025-11-25 21:08:11 - TradingBot - ERROR - API error: APIError(code=-2019): Margin is insufficient.
+2025-11-25 21:08:37 - TradingBot - INFO - Placing MARKET buy order: 0.1 BTCUSDT
+2025-11-25 21:08:37 - TradingBot - INFO - Order placed successfully - Order ID: 10626455631
+2025-11-25 21:08:45 - TradingBot - INFO - Account Balance: {'total_balance': 3869.21565671, 'available_balance': 3837.02085671}
+2025-11-25 21:09:15 - TradingBot - INFO - Placing MARKET sell order: 0.2 BTCUSDT
+2025-11-25 21:09:16 - TradingBot - INFO - Order placed successfully - Order ID: 10626455881
+2025-11-25 21:09:21 - TradingBot - INFO - Account Balance: {'total_balance': 2510.70183273, 'available_balance': 2576.09383273}
+2025-11-25 21:09:56 - TradingBot - INFO - Placing LIMIT buy order: 0.2 BTCUSDT @ 120.0
+2025-11-25 21:09:56 - TradingBot - ERROR - API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 21:10:13 - TradingBot - INFO - Account Balance: {'total_balance': 2510.70183273, 'available_balance': 2576.09383273}
+2025-11-25 21:10:25 - TradingBot - ERROR - Failed to get open orders: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 21:12:44 - TradingBot - INFO - Placing LIMIT buy order: 0.2 BTCUSDT @ 1200.0
+2025-11-25 21:12:44 - TradingBot - ERROR - API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2025-11-25 21:12:58 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 21:12:59 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-25 21:13:09 - TradingBot - INFO - Placing LIMIT buy order: 0.2 BTCUSDT @ 120.0
+2025-11-25 21:13:10 - TradingBot - ERROR - API error: APIError(code=-4013): Price less than min price.
+2025-11-25 21:13:41 - TradingBot - INFO - Placing LIMIT buy order: 0.2 BTCUSDT @ 12000.0
+2025-11-25 21:13:41 - TradingBot - INFO - Order placed successfully - Order ID: 10626457737
+2025-11-25 21:13:46 - TradingBot - INFO - Account Balance: {'total_balance': 2510.70183273, 'available_balance': 2576.09383273}
+2025-11-25 21:14:56 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 21:14:57 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-25 21:15:01 - TradingBot - INFO - Retrieved 1 open orders
+2025-11-25 21:16:53 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 21:16:54 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-25 21:17:05 - TradingBot - INFO - Cancelling order 10626457737 for 
+2025-11-25 21:17:05 - TradingBot - ERROR - Failed to cancel order: APIError(code=-1102): Mandatory parameter 'symbol' was not sent, was empty/null, or malformed.
+2025-11-25 21:17:32 - TradingBot - INFO - Cancelling order 10626457737 for BTCUSDT
+2025-11-25 21:17:32 - TradingBot - INFO - Order 10626457737 cancelled successfully
+2025-11-25 21:17:45 - TradingBot - INFO - Account Balance: {'total_balance': 2510.70183273, 'available_balance': 2576.09383273}
+2025-11-25 21:35:47 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 21:35:48 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-25 22:42:46 - TradingBot - INFO - Account Balance: {'total_balance': 2510.70183273, 'available_balance': 2576.09383273}
+2025-11-25 22:42:54 - TradingBot - INFO - Retrieved 0 open orders
+2025-11-25 22:43:27 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 1200.0, stop @ 1200.0
+2025-11-25 22:43:27 - TradingBot - ERROR - Unexpected error: 'Client' object has no attribute 'fututes_create_order'
+2025-11-25 22:44:01 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 22:44:01 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-25 22:44:04 - TradingBot - INFO - Account Balance: {'total_balance': 2510.70183273, 'available_balance': 2576.09383273}
+2025-11-25 22:44:26 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 1200.0, stop @ 1500.0
+2025-11-25 22:44:27 - TradingBot - ERROR - API error: APIError(code=-1116): Invalid orderType.
+2025-11-25 23:14:55 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 23:14:56 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-25 23:15:27 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 1300.0, stop @ 1200.0
+2025-11-25 23:15:27 - TradingBot - ERROR - API error: APIError(code=-4183): Limit price can't be higher than 1260
+2025-11-25 23:16:07 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 1250.0, stop @ 1200.0
+2025-11-25 23:16:07 - TradingBot - ERROR - API error: APIError(code=-2021): Order would immediately trigger.
+2025-11-25 23:19:42 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 850.0, stop @ 800.0
+2025-11-25 23:19:43 - TradingBot - ERROR - API error: APIError(code=-4183): Limit price can't be higher than 840
+2025-11-25 23:20:07 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 830.0, stop @ 800.0
+2025-11-25 23:20:07 - TradingBot - ERROR - API error: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-11-25 23:20:39 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.2 BTCUSDT @ 830.0, stop @ 800.0
+2025-11-25 23:20:40 - TradingBot - ERROR - API error: APIError(code=-2021): Order would immediately trigger.
+2025-11-25 23:21:10 - TradingBot - INFO - Placing STOP_LIMIT sell order: 0.1 BTCUSDT @ 1240.0, stop @ 1200.0
+2025-11-25 23:21:11 - TradingBot - ERROR - API error: APIError(code=-2019): Margin is insufficient.
+2025-11-25 23:21:58 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.2 BTCUSDT @ 1240.0, stop @ 1200.0
+2025-11-25 23:21:58 - TradingBot - ERROR - API error: APIError(code=-2021): Order would immediately trigger.
+2025-11-25 23:49:30 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 23:49:31 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-25 23:53:29 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 1240.0, stop @ 1200.0
+2025-11-25 23:53:30 - TradingBot - ERROR - API error: APIError(code=-1022): Signature for this request is not valid.
+2025-11-25 23:59:47 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-25 23:59:48 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-26 00:00:47 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-26 00:00:47 - TradingBot - INFO - Connection successful - Wallet Balance: 4983.66647273 USDT
+2025-11-26 00:00:52 - TradingBot - INFO - Account Balance: {'total_balance': 2478.9438327300004, 'available_balance': 2544.33583273}
+2025-11-26 00:05:20 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.12 BTCUSDT @ 1240.0, stop @ 1200.0
+2025-11-26 00:05:22 - TradingBot - ERROR - API error: APIError(code=-1022): Signature for this request is not valid.
+2025-11-26 00:06:32 - TradingBot - INFO - Placing MARKET buy order: 0.1 BTCUSDT
+2025-11-26 00:06:32 - TradingBot - INFO - Order placed successfully - Order ID: 10626541753
+2025-11-26 00:07:00 - TradingBot - INFO - Placing LIMIT buy order: 0.2 BTCUSDT @ 1250.0
+2025-11-26 00:07:00 - TradingBot - INFO - Order placed successfully - Order ID: 10626541949
+2025-11-26 00:07:05 - TradingBot - INFO - Retrieved 3 open orders
+2025-11-26 00:07:55 - TradingBot - INFO - Cancelling order 10626541949 for BTCUSDT
+2025-11-26 00:07:55 - TradingBot - INFO - Order 10626541949 cancelled successfully
+2025-11-26 00:09:32 - TradingBot - INFO - Placing STOP_LIMIT buy order: 0.2 BTCUSDT @ 87400.0, stop @ 87000.0
+2025-11-26 00:09:32 - TradingBot - ERROR - API error: APIError(code=-1022): Signature for this request is not valid.
+2025-11-26 17:10:39 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-26 17:10:39 - TradingBot - ERROR - Failed to initialize bot: API Secret required for private endpoints
+2025-11-26 17:10:39 - CLI - ERROR - Initialization failed: API Secret required for private endpoints
+2025-11-26 17:11:35 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-26 17:11:36 - TradingBot - INFO - Connection successful - Wallet Balance: 4884.00258096 USDT
+2025-11-26 17:11:41 - TradingBot - ERROR - Failed to get balance: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-11-26 17:12:42 - TradingBot - INFO - Account Balance: {'total_balance': -150.274305, 'available_balance': 0.0}
+2025-11-26 17:12:54 - TradingBot - INFO - Retrieved 6 open orders
+2025-11-26 17:14:59 - TradingBot - INFO - Cancelling order 10626916263 for BTCUSDT
+2025-11-26 17:15:00 - TradingBot - INFO - Order 10626916263 cancelled successfully
+2025-11-26 17:15:15 - TradingBot - INFO - Account Balance: {'total_balance': -133.3574, 'available_balance': 0.0}
+2025-11-26 17:15:36 - TradingBot - INFO - Cancelling order 10626887100 for BTCUSDT
+2025-11-26 17:15:37 - TradingBot - INFO - Order 10626887100 cancelled successfully
+2025-11-26 17:16:12 - TradingBot - INFO - Cancelling order 10626920238 for BTCUSDT
+2025-11-26 17:16:12 - TradingBot - INFO - Order 10626920238 cancelled successfully
+2025-11-26 17:16:40 - TradingBot - INFO - Cancelling order 10626889007 for BTCUSDT
+2025-11-26 17:16:40 - TradingBot - INFO - Order 10626889007 cancelled successfully
+2025-11-26 17:16:46 - TradingBot - INFO - Retrieved 2 open orders
+2025-11-26 17:17:12 - TradingBot - INFO - Cancelling order 10626536167 for BTCUSDT
+2025-11-26 17:17:12 - TradingBot - INFO - Order 10626536167 cancelled successfully
+2025-11-26 17:17:36 - TradingBot - INFO - Cancelling order 10626541302 for BTCUSDT
+2025-11-26 17:17:37 - TradingBot - INFO - Order 10626541302 cancelled successfully
+2025-11-26 17:17:39 - TradingBot - INFO - Account Balance: {'total_balance': -150.19011, 'available_balance': 0.0}
+2025-11-26 17:17:51 - TradingBot - INFO - Retrieved 0 open orders
+2025-11-26 17:24:10 - TradingBot - INFO - Account Balance: {'total_balance': -146.8538, 'available_balance': 0.0}
+2025-11-26 17:24:43 - TradingBot - INFO - Placing MARKET buy order: 0.012 BTCUSDT
+2025-11-26 17:24:44 - TradingBot - ERROR - API error: APIError(code=-2019): Margin is insufficient.
+2025-11-26 17:31:29 - TradingBot - INFO - Bot initialized - Testnet: True
+2025-11-26 17:31:29 - TradingBot - INFO - Connection successful - Wallet Balance: 4884.00258096 USDT
+2025-11-26 17:31:31 - TradingBot - INFO - Account Balance: {'total_balance': -121.9456, 'available_balance': 0.0}
